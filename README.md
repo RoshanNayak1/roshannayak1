@@ -11,6 +11,4 @@ A passionate mern stack developer and QA engineer
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/roshannayak68/) 
 
-### Achievements
-- List your achievements or add badges for additional style.
 
