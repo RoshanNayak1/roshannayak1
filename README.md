@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Roshan Nayak
 
-<!--
-**RoshanNayak1/roshannayak1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate mern stack developer and QA engineer
 
-Here are some ideas to get you started:
+![Coding](https://img.shields.io/badge/Coding-%3E%3D-black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently working as **Quality Assurance Associate** at ** Drall and Dholiya Private Limited**   
+- 📫 How to reach me: [dev.roshannayak@gmail.com](mailto:dev.roshannayak@gmail.com)  
+- ⚡ Fun fact: I love working with people who share my passion for coding and product management.
+
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/roshannayak68/) 
+
+### Achievements
+- List your achievements or add badges for additional style.
+
